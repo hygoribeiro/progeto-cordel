@@ -110,3 +110,8 @@ footer{
     font-size: 1.4vw;
     text-align: center;
 }
+
+footer>p{
+    margin: 0px;
+    padding: 8px;
+}
